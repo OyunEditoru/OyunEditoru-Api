@@ -1,4 +1,4 @@
 RiotGames
 =========
 
-Riot Games Api
+Riot Games Api Sistemi. Dağıtımı ücresizdir.
