@@ -1,4 +1,4 @@
-RiotGames
+OyunEditoru Api
 =========
 
-Riot Games Api Sistemi. Dağıtımı ücresizdir.
+OyunEditoru Api Api Sistemi. Dağıtımı ücresizdir.
